@@ -4,6 +4,10 @@ _C#, VS2017_
 <br />
 <br />
 
+> The whole project is packed in CoinTiger_SDK_CSharp.zip
+
+<br />
+
 CoinTigerSDK.sln
 * CoinTigerSDK.csproj
 * CoinTigerSDKTester.csproj
